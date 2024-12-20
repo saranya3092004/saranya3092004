@@ -24,5 +24,5 @@ IDEs: VS Code, IntelliJ IDEA
 📫 Reach Me:
 ---
 ✉️ Email: saranyasivakumar3092004@gmail.com\
-🌐 Website: (saranya3092004.github.io)\
-🔗 LinkedIn: (linkedin.com/in/saranya-sivakumar-2a4997258)
+[🌐 Website]: (saranya3092004.github.io)\
+[🔗 LinkedIn]: (linkedin.com/in/saranya-sivakumar-2a4997258)
