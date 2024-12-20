@@ -1,6 +1,6 @@
 __👋 Hi there!__
 
-__I’m Saranya Sivakumar__
+__I’m Saranya Sivakumar__\
 A passionate developer diving deep into the world of MERN stack development and Java.
 
 🌟 About Me:
@@ -13,13 +13,16 @@ A passionate developer diving deep into the world of MERN stack development and 
 
 🔧 Skills:
 ---
+Languages: Java (OOP), C\
 Frontend: React, HTML, CSS, JavaScript\
 Backend: Node.js, Express, MongoDB, Firebase\
-Languages: Java (OOP), C
+Tools & Frameworks: Git, npm, Postman, Vite\
+IDEs: VS Code, IntelliJ IDEA
+
 
 
 📫 Reach Me:
 ---
 ✉️ Email: saranyasivakumar3092004@gmail.com\
-🌐 Website: saranya3092004.github.io\
-🔗 LinkedIn: linkedin.com/in/saranya-sivakumar-2a4997258
+🌐 Website: (saranya3092004.github.io)\
+🔗 LinkedIn: (linkedin.com/in/saranya-sivakumar-2a4997258)
